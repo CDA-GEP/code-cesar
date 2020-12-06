@@ -12,7 +12,7 @@ Créez une fonction qui prend en paramètre une chaine de caractère.
 Cette fonction doit renvoyer une chaine cryptée.
 Crytpage : décaler chaque lettre un cran vers la droite.
 
-ex: chaine non cryptée : simplon
-    chaine cryptée : tjnqmpo
+ex: chaine non cryptée : avengers
+    chaine cryptée : bwfohfst
 
 ### courage ! :)
